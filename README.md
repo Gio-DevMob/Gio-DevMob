@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Developing since 2022<br>📚 I'm studying Kotlin and some Java<br>🎯 Goals: be an Android Developer / helping more women get into tech<br>🎲 I like to play video games and design apps<br>🚀 Stay hungry, stay foolish</p>
+<p align="left">✨ Developing since 2022<br>📚 I'm studying Kotlin and some Java<br>🎯 Goals: be an Android Developer / helping more women get into tech<br>🎲 I like to play video games, traveling, camping and design apps<br>🚀 Stay hungry, stay foolish</p>
 
 ###
 
