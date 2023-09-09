@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Gio (Giovanna) and I'm an aspiring Android Developer, from Sorocaba, Brazil.</p>
+<p align="left">I'm Gio (Giovanna) and I'm an aspiring Android Developer, from São Paulo, Brazil.</p>
 
 ###
 
